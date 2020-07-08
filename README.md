@@ -31,7 +31,7 @@
     </dependencies>
 ```
 
-> 之后maven依赖包，具体参考：https://blog.csdn.net/lJQueen/article/details/78543494
+> 之后更新maven依赖包，具体参考：https://blog.csdn.net/lJQueen/article/details/78543494
 
 ## lombok使用示例
 
